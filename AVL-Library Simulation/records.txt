@@ -1,0 +1,12 @@
+10//number of books
+ISSN   NoOfAuthors      RefBookCopies      IssuableCopies     Title
+100	1                10			6		Sherlock Holmes
+123345	1                19			10		The fault in our stars
+145676  1		  20			10		40 rules of Love
+190220  1		  8			3		The Alchemist
+189029  1		  23			18		Man's Search For Meaning
+373830  1		  13			10 		Thousand Splendid Suns
+456373  1		  17			4		Inferno
+893930  1		  6			6		The Last Song
+672929  2		  4			0		Children's Encylcopedia				
+238930  3		  9			7		An insight into XYZ
